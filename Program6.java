@@ -7,7 +7,7 @@ public class Program6 {
     Scanner myScanner=new Scanner (System.in);
     //now the variables
     double rad = 0;
-    double pi = 3.14159;
+    final double pi = 3.14159;
     
     System.out.println("Enter a number for the radius: ");
 
